@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiconbre27@gmail.com)
 [![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconbre&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconbre&show_icons=true&theme=merko&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
