@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Maicon!<img src="https://media4.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif?cid=ecf05e474yu5ezncpqmg53ajx6e0vm4smvt4ps9xuvp8dzoe&rid=giphy.gif&ct=s" width="100"></h1>
+<h1>Olá! Eu sou o Maicon!<img src="https://media0.giphy.com/media/g04poZxA1nAyTs9DQY/giphy.gif?cid=790b76112a4d20024515e9f103906831d67c5f284647a19e&rid=giphy.gif&ct=s" width="100"></h1>
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/maiconbre)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconbre)
