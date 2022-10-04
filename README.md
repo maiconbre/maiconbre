@@ -4,7 +4,7 @@
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/maiconbre)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconbre)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiconbre27@gmail.com)
-[![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()
+[![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()<img src="https://media0.giphy.com/media/g04poZxA1nAyTs9DQY/giphy.gif?cid=790b76112a4d20024515e9f103906831d67c5f284647a19e&rid=giphy.gif&ct=s" width="45">
 
 
   <a href="https://github.com/maiconbre">
@@ -12,7 +12,7 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maiconbre&layout=compact&langs_count=8&theme=dracula"/>
   
 
-<h3>## Tecnologias que eu uso no meu dia <img src="https://media0.giphy.com/media/g04poZxA1nAyTs9DQY/giphy.gif?cid=790b76112a4d20024515e9f103906831d67c5f284647a19e&rid=giphy.gif&ct=s" width="45"></h3>
+<h3> Tecnologias que eu uso no meu dia </h3>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
