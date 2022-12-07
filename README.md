@@ -15,12 +15,11 @@
 <h3> Tecnologias que eu uso no meu dia </h3>
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" /></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img style="margin_inline: 15px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /></a>
   
-  
-  
-</div><br/>
+  </div>
