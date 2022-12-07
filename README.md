@@ -1,5 +1,5 @@
 <img width="1100em" src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp"/>
-<h1>Olá! Eu sou o Maicon Brendon!</h1>
+<div align="center">  <h1>Olá! Eu sou o Maicon Brendon!</h1>
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/maiconbre)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconbre)
@@ -22,4 +22,4 @@
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /></a>
   <a href="https://nodejs.org/" target="_blank"><img style="margin_inline: 15px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /></a>
   
-  </div>
+  
