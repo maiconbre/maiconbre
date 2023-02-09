@@ -1,5 +1,5 @@
 <img width="1100em" src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp"/>
-<div align="center">  <h1>Olá! Eu sou o Maicon Brendon!</h1>
+<div align="center">  <h1>Olá! Eu sou Maicon Brendon!</h1>
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/maiconbre)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconbre)
