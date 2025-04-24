@@ -1,8 +1,8 @@
 <img width="1100em" src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp"/>
 <div align="center">  <h1>Olá! Eu sou Maicon Brendon!</h1>
 
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/maiconbre)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiconbre27@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiconbre277@gmail.com)
 [![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()<img src="https://media0.giphy.com/media/g04poZxA1nAyTs9DQY/giphy.gif?cid=790b76112a4d20024515e9f103906831d67c5f284647a19e&rid=giphy.gif&ct=s" width="45">
 
 
