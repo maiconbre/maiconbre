@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="380" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-3fc0-622f-b6cd-eb680b17f203/raw?se=2025-07-21T04%3A55%3A31Z&sp=r&sv=2024-08-04&sr=b&scid=c66b4910-c923-52f6-96dc-600f815fe774&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-20T18%3A34%3A56Z&ske=2025-07-21T18%3A34%3A56Z&sks=b&skv=2024-08-04&sig=if/C5YcmBHDXD/kSxPOKuG0pxlIdA4k5g%2BDRYE3U6aU%3D">
+<img align="right" alt="Coding" width="370" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-3fc0-622f-b6cd-eb680b17f203/raw?se=2025-07-21T04%3A55%3A31Z&sp=r&sv=2024-08-04&sr=b&scid=c66b4910-c923-52f6-96dc-600f815fe774&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-20T18%3A34%3A56Z&ske=2025-07-21T18%3A34%3A56Z&sks=b&skv=2024-08-04&sig=if/C5YcmBHDXD/kSxPOKuG0pxlIdA4k5g%2BDRYE3U6aU%3D">
 
 ```typescript
 const maicon = {
@@ -53,10 +53,6 @@ const maicon = {
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maiconbre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maiconbre&layout=compact&langs_count=8&theme=dracula&border_radius=10&hide_border=true"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiconbre&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -135,17 +131,17 @@ const maicon = {
 ## 🌐 Vamos Conectar!
 
 <div align="center">
+
+  <p><strong>💡 "O código é a ponte entre a imaginação e a realidade."</strong></p>
+
   <p>
-    <strong>💡 "O código é a ponte entre a imaginação e a realidade"</strong>
+    🌐 <strong>Portfólio:</strong> <a href="https://targetweb.tech" target="_blank">maiconbrendon.dev</a><br/>
+    💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/maiconbre/" target="_blank">linkedin.com/in/maiconbrendon</a><br/>
+    📧 <strong>Email:</strong> <a href="mailto:maiconbre277@gmail.com">maiconbre277@gmail.com</a>
   </p>
-  
-  <p>
-    🤝 Sempre aberto para colaborações interessantes, conversas sobre tecnologia ou apenas um papo sobre código!
-  </p>
-  
-  <p>
-    📧 <strong>Contato:</strong> <a href="mailto:maiconbre277@gmail.com">maiconbre277@gmail.com</a>
-  </p>
+
+</div>
+
   
   ---
   
