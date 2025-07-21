@@ -3,10 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Eu+sou+Maicon+👋;Desenvolvedor+Full+Stack!+🚀" />
   </h1>
   
-  <p align="center">
-    <em>🌟 Transformando ideias em realidade através da programação</em>
-  </p>
-  
   <div>
     <a href="mailto:maiconbre277@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
