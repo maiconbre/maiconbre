@@ -127,7 +127,9 @@ const maicon = {
 
 <div align="center">
 
-[![🌐 Portfólio](https://img.shields.io/badge/-PortifolioWEB-F57C00?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://targetweb.tech)[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconbre/)[![✉️ Email](https://img.shields.io/badge/-maiconbre277@gmail.com-212121?style=for-the-badge&logo=gmail&logoColor=F57C00)](mailto:maiconbre277@gmail.com)
+[![🌐 Portfólio](https://img.shields.io/badge/-PortifolioWEB-F57C00?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://targetweb.tech)
+
+[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconbre/)   [![✉️ Email](https://img.shields.io/badge/-maiconbre277@gmail.com-212121?style=for-the-badge&logo=gmail&logoColor=F57C00)](mailto:maiconbre277@gmail.com)
 
 </div>
 
