@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="400" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-3fc0-622f-b6cd-eb680b17f203/raw?se=2025-07-21T04%3A55%3A31Z&sp=r&sv=2024-08-04&sr=b&scid=c66b4910-c923-52f6-96dc-600f815fe774&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-20T18%3A34%3A56Z&ske=2025-07-21T18%3A34%3A56Z&sks=b&skv=2024-08-04&sig=if/C5YcmBHDXD/kSxPOKuG0pxlIdA4k5g%2BDRYE3U6aU%3D">
+<img align="right" alt="Coding" width="380" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-3fc0-622f-b6cd-eb680b17f203/raw?se=2025-07-21T04%3A55%3A31Z&sp=r&sv=2024-08-04&sr=b&scid=c66b4910-c923-52f6-96dc-600f815fe774&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-20T18%3A34%3A56Z&ske=2025-07-21T18%3A34%3A56Z&sks=b&skv=2024-08-04&sig=if/C5YcmBHDXD/kSxPOKuG0pxlIdA4k5g%2BDRYE3U6aU%3D">
 
 ```typescript
 const maicon = {
