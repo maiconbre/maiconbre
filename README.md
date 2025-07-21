@@ -126,13 +126,12 @@ const maicon = {
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <p>
-    🌐 <strong>Portfólio:</strong> <a href="https://targetweb.tech" target="_blank">maiconbrendon.dev</a><br/>
-    💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/maiconbre/" target="_blank">linkedin.com/in/maiconbrendon</a><br/>
-    📧 <strong>Email:</strong> <a href="mailto:maiconbre277@gmail.com">maiconbre277@gmail.com</a>
-  </p>
+
+[![🌐 Portfólio](https://img.shields.io/badge/-PortifolioWEB-F57C00?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://targetweb.tech)[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconbre/)[![✉️ Email](https://img.shields.io/badge/-maiconbre277@gmail.com-212121?style=for-the-badge&logo=gmail&logoColor=F57C00)](mailto:maiconbre277@gmail.com)
 
 </div>
+
+
 
   
   ---
