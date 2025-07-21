@@ -120,7 +120,6 @@ const maicon = {
 ---
 
 
-## 🏆 Conquistas & Certificações
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maiconbre&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
@@ -128,12 +127,9 @@ const maicon = {
 
 ---
 
-## 🌐 Vamos Conectar!
+## 🌐 Let's Connect!
 
 <div align="center">
-
-  <p><strong>💡 "O código é a ponte entre a imaginação e a realidade."</strong></p>
-
   <p>
     🌐 <strong>Portfólio:</strong> <a href="https://targetweb.tech" target="_blank">maiconbrendon.dev</a><br/>
     💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/maiconbre/" target="_blank">linkedin.com/in/maiconbrendon</a><br/>
