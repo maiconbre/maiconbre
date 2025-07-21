@@ -31,8 +31,7 @@ const maicon = {
   localização: "Brasil 🇧🇷",
   papel: "Desenvolvedor Full Stack",
   linguagens: ["JavaScript", "TypeScript", "Python", "SQL"],
-  frameworks: ["React.js", "Next.js", "Node.js", "Express", "Flask"],
-  ferramentas: ["N8N", "Tailwind CSS", "Prisma", "Bootstrap"],
+  frameworks: ["React.js", "Next.js", "Node.js", "Express"],
   bancos: ["SQLite", "PostgreSQL", "MySQL, Supabase"],
   devOps: ["Coolify", "Render", "Railway", "Git"],
   paixões: [
@@ -154,5 +153,5 @@ const maicon = {
     ⭐ <em>Se você chegou até aqui, que tal deixar uma estrela nos meus repositórios? Isso significa muito! 🌟</em>
   </p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
