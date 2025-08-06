@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="370" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-3fc0-622f-b6cd-eb680b17f203/raw?se=2025-07-21T04%3A55%3A31Z&sp=r&sv=2024-08-04&sr=b&scid=c66b4910-c923-52f6-96dc-600f815fe774&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-20T18%3A34%3A56Z&ske=2025-07-21T18%3A34%3A56Z&sks=b&skv=2024-08-04&sig=if/C5YcmBHDXD/kSxPOKuG0pxlIdA4k5g%2BDRYE3U6aU%3D">
+<img align="right" alt="Coding" width="370" src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-5a8c-61fd-b7ed-790cf522ae69/raw?se=2025-08-06T18%3A39%3A18Z&sp=r&sv=2024-08-04&sr=b&scid=216b928d-8e59-515f-a664-672841ea9a04&skoid=5c72dd08-68ae-4091-b4e1-40ccec0693ae&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-06T13%3A36%3A12Z&ske=2025-08-07T13%3A36%3A12Z&sks=b&skv=2024-08-04&sig=Qy06jb%2BVo6DDM%2B1Lss3MMNf38G%2BwikoFDJiCT4Xx37o%3D">
 
 ```typescript
 const maicon = {
