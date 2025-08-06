@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="370" src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-5a8c-61fd-b7ed-790cf522ae69/raw?se=2025-08-06T18%3A39%3A18Z&sp=r&sv=2024-08-04&sr=b&scid=216b928d-8e59-515f-a664-672841ea9a04&skoid=5c72dd08-68ae-4091-b4e1-40ccec0693ae&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-06T13%3A36%3A12Z&ske=2025-08-07T13%3A36%3A12Z&sks=b&skv=2024-08-04&sig=Qy06jb%2BVo6DDM%2B1Lss3MMNf38G%2BwikoFDJiCT4Xx37o%3D">
+<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/maiconbre/PortifolioDev/1e83e758b68636209c0a68402cbead638a4b0aa7/public/ChatGPT%20Image%206%20de%20ago.%20de%202025%2C%2014_39_35.png?token=A22XI3WNJPFZGBF6FECU6J3ISOKOA">
 
 ```typescript
 const maicon = {
