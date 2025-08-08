@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/maiconbre/PortifolioDev/1e83e758b68636209c0a68402cbead638a4b0aa7/public/ChatGPT%20Image%206%20de%20ago.%20de%202025%2C%2014_39_35.png?token=A22XI3WNJPFZGBF6FECU6J3ISOKOA">
+<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/maiconbre/PortifolioDev/refs/heads/main/public/ChatGPT%20Image%206%20de%20ago.%20de%202025%2C%2014_39_35.png?token=GHSAT0AAAAAADDIWGEHMVBUF4QVYSFBQETS2EWKQHA">
 
 ```typescript
 const maicon = {
