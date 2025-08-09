@@ -1,146 +1,158 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Eu+sou+Maicon+👋;Desenvolvedor+Full+Stack!+🚀" />
-  </h1>
-  
-  <div>
-    <a href="mailto:maiconbre277@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg?style=for-the-badge" alt="VSCode"/>
-    <img src="https://komarev.com/ghpvc/?username=maiconbre&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-    <img src="https://media0.giphy.com/media/g04poZxA1nAyTs9DQY/giphy.gif?cid=790b76112a4d20024515e9f103906831d67c5f284647a19e&rid=giphy.gif&ct=s" width="45">
-  </div>
-  
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=250&section=header&text=Maicon%20Brendon&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Creating%20Digital%20Solutions&descAlignY=58&descAlign=50&descSize=18"/>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer;Frontend+%2B+Backend+%2B+DevOps;React+%26+UI/UX+Entusiast;Building+Digital+Solutions;Coffee+Driven+Developer" alt="Typing Animation" />
+</div>
+
+<p align="center">
+  <a href="mailto:maiconbre277@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://targetweb.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maiconbre/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maiconbre&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> About Me
 
-<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/maiconbre/PortifolioDev/refs/heads/main/public/ChatGPT%20Image%206%20de%20ago.%20de%202025%2C%2014_39_35.png?token=GHSAT0AAAAAADDIWGEHMVBUF4QVYSFBQETS2EWKQHA">
+<img align="right" alt="Coding" width="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 
-```typescript
+```javascript
 const maicon = {
-  nome: "Maicon Brendon",
-  localização: "Brasil 🇧🇷",
-  papel: "Desenvolvedor Full Stack",
-  linguagens: ["JavaScript", "TypeScript", "Python", "SQL"],
-  frameworks: ["React.js", "Next.js", "Node.js", "Express"],
-  bancos: ["SQLite", "PostgreSQL", "MySQL, Supabase"],
-  devOps: ["Coolify", "Render", "Railway", "Git"],
-  paixões: [
-    "Soluções que resolvem problemas reais",
-    "Design funcional e moderno"
-  ],
-
-  sayHi() {
-    console.log("Transformamos ideias em soluções reais! 🚀");
-  }
+  name: "Maicon Brendon",
+  location: "Brasil 🇧🇷",
+  role: "Full Stack Developer",
+  
+  frontend: ["React", "Next.js", "CSS3", "Tailwind", "WordPress"],
+  backend: ["Node.js", "Express", "Python", "PHP"],
+  database: ["PostgreSQL", "SQLite", "MySQL"],
+  tools: ["Git", "Figma", "Postman", "Notion"],
+  
+  currentFocus: "Building scalable web applications",
+  openToWork: true
 };
 
+console.log("Let's build something amazing together! 🚀");
 ```
 
-## 📊 GitHub Analytics
+<br clear="right"/>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35"> Tech Stack
 
 <div align="center">
-  <a href="https://github.com/maiconbre">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maiconbre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maiconbre&layout=compact&langs_count=8&theme=dracula&border_radius=10&hide_border=true"/>
-  </a>
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,sass" alt="Frontend Skills"/>
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,postgresql,mysql,sqlite,mongodb,firebase,supabase,prisma" alt="Backend Skills"/>
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,docker,git,github,gitlab,postman,webpack,vite" alt="DevOps & Cloud Skills"/>
+
+### 🎯 Focus
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" alt="React Frontend"/><br>
+        <strong>Frontend</strong><br>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&repeat=true&width=220&height=30&lines=React+Components;Next.js+Framework;TypeScript;Tailwind+CSS;Responsive+Design" alt="Frontend Focus" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" alt="Frontend Tech Stack" width="120"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" alt="Node Backend"/><br>
+        <strong>Backend</strong><br>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=2000&pause=500&color=68A063&center=true&vCenter=true&repeat=true&width=220&height=30&lines=Node.js+Runtime;Express.js+APIs;MongoDB+%2F+PostgreSQL;JWT+Authentication;RESTful+Services" alt="Backend Focus" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" alt="Backend Tech Stack" width="120"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" alt="DevOps"/><br>
+        <strong>DevOps & Deploy</strong><br>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&repeat=true&width=220&height=30&lines=Vercel+Deploy;Docker+Containers;AWS+%2F+Digital+Ocean;CI%2FCD+Pipelines;Git+Workflows" alt="DevOps Focus" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=vercel,docker,aws,git" alt="DevOps Tech Stack" width="120"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiconbre&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Activity Graph"/>
 </div>
 
 ---
 
-## 🛠️ Arsenal Tecnológico
-
-<table align="center">
-  <tr>
-    <th>💻 Front-End</th>
-    <th>⚙️ Back-End</th>
-    <th>☁️ DevOps</th>
-    <th>⚡ Automações & Ferramentas</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Gutenberg-000?style=for-the-badge&logo=wordpress&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Coolify-111827?style=for-the-badge&logo=digitalocean&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Koyeb-27292E?style=for-the-badge&logo=koyeb&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=npm&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/n8n-FA8C16?style=for-the-badge&logo=n8n&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhooks&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SMTP-4A154B?style=for-the-badge&logo=gmail&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-
----
-
-
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maiconbre&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiconbre&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=f85149&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconbre&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconbre&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiconbre&custom_title=Contribution%20Graph&bg_color=0d1117&color=79c0ff&line=58a6ff&point=f85149&area_color=21262d&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
 
-## 🌐 Let's Connect!
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=F85149&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Open+to+collaboration!;Let's+build+together!;Coffee+chat%3F" alt="Connect Animation" />
+  
 
-[![🌐 Portfólio](https://img.shields.io/badge/-PortifolioWEB-F57C00?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://targetweb.tech)
-
-[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconbre/)   [![✉️ Email](https://img.shields.io/badge/-maiconbre277@gmail.com-212121?style=for-the-badge&logo=gmail&logoColor=F57C00)](mailto:maiconbre277@gmail.com)
-
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z0aWVjczIwMjhiYnZjY3RmdnV5YmZqazN1MGU5MGx6ZWU5bm1rayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8v55gXkiNj3y/giphy.gif" width="100" alt="Email Animation"/><br>
+        <strong>Email</strong><br>
+        <a href="mailto:maiconbre277@gmail.com">
+          <img src="https://img.shields.io/badge/Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" width="300">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh2N3dhZWVhdm1uOXhmbnczbm9mbHdlem03ZzhibGxvbTViaXlpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adCYGzZimxBZCqqe8H/giphy.gif" width="100" alt="Portfolio Animation"/><br>
+        <strong>Portfolio</strong><br>
+        <a href="https://targetweb.tech">
+          <img src="https://img.shields.io/badge/Visit%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" width="300">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh6bXk1aGNkYTJraXZ1c3h3aXhvM3BkaDMxc2l4dGg1bmxjMGFtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/khr2lS27v92PQPD3oa/giphy.gif" width="80" alt="LinkedIn Animation"/><br>
+        <strong>LinkedIn</strong><br>
+        <a href="https://www.linkedin.com/in/maiconbre/">
+          <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-
+<div align="center">
   
-  ---
+  <sub>Made with ❤️ by <a href="https://github.com/maiconbre">Maicon Brendon</a></sub>
   
-  <p>
-    ⭐ <em>Se você chegou até aqui, que tal deixar uma estrela nos meus repositórios? Isso significa muito! 🌟</em>
-  </p>
-  
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=full&section=footer&reversal=true"/>
 </div>
