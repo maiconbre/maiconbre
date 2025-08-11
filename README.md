@@ -34,7 +34,7 @@ const maicon = {
   location: "Brasil 🇧🇷",
   role: "Full Stack Developer",
   
-  frontend: ["React", "Next.js", "CSS3", "Tailwind", "WordPress"],
+  frontend: ["React", "Next.js", "CSS3", "Tailwind"],
   backend: ["Node.js", "Express", "Python", "PHP"],
   database: ["PostgreSQL", "SQLite", "MySQL"],
   tools: ["Git", "Figma", "Postman", "Notion"],
