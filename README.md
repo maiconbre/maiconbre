@@ -98,9 +98,7 @@ console.log("Let's build something amazing together! 🚀");
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35"> GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiconbre&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=f85149&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
-</div>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconbre&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconbre&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
