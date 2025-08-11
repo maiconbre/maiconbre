@@ -26,7 +26,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> About Me
 
-<img align="right" alt="Coding" width="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<img align="right" alt="Coding" width="480" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ6Y2w2cGJhdXMzMzJ3bGp1OXQ2Z3NsaW5kZnB6MXlkbmlhZzB6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 ```javascript
 const maicon = {
@@ -42,8 +42,6 @@ const maicon = {
   currentFocus: "Building scalable web applications",
   openToWork: true
 };
-
-console.log("Let's build something amazing together! 🚀");
 ```
 
 <br clear="right"/>
@@ -81,12 +79,12 @@ console.log("Let's build something amazing together! 🚀");
         <br><br>
         <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" alt="Backend Tech Stack" width="120"/>
       </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" alt="DevOps"/><br>
+      <td align="center" width="33%"><br>
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="140" alt="DevOps"/><br>
         <strong>DevOps & Deploy</strong><br>
         <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&repeat=true&width=220&height=30&lines=Vercel+Deploy;Docker+Containers;AWS+%2F+Digital+Ocean;CI%2FCD+Pipelines;Git+Workflows" alt="DevOps Focus" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=vercel,docker,aws,git" alt="DevOps Tech Stack" width="120"/>
+        <img src="https://skillicons.dev/icons?i=vercel,docker,supabase,git" alt="DevOps Tech Stack" width="120"/>
       </td>
     </tr>
   </table>
@@ -150,7 +148,7 @@ console.log("Let's build something amazing together! 🚀");
 </div>
 <div align="center">
   
-  <sub>Made with ❤️ by <a href="https://github.com/maiconbre">Maicon Brendon</a></sub>
+  <sub>Made with ❤️ by <a href="https://targetweb.tech">Maicon Brendon</a></sub>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=full&section=footer&reversal=true"/>
 </div>
