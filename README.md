@@ -26,7 +26,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> About Me
 
-<img align="right" alt="Coding" width="480" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ6Y2w2cGJhdXMzMzJ3bGp1OXQ2Z3NsaW5kZnB6MXlkbmlhZzB6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
+<img align="right" alt="Coding" width="420" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ6Y2w2cGJhdXMzMzJ3bGp1OXQ2Z3NsaW5kZnB6MXlkbmlhZzB6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 ```javascript
 const maicon = {
