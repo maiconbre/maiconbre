@@ -97,10 +97,7 @@ const maicon = {
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35"> GitHub Stats
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconbre&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconbre&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiconbre&custom_title=Contribution%20Graph&bg_color=0d1117&color=79c0ff&line=58a6ff&point=f85149&area_color=21262d&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
