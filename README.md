@@ -33,7 +33,7 @@ const maicon: Developer = {
   location: "Rio de Janeiro, Brasil 🇧🇷",
   role:     "Full Stack Developer",
 
-  frontend: ["React", "Next.js", "SvelteKit", "Tailwind", "TypeScript"],
+  frontend: ["React", "Next", "SvelteKit", "Tailwind", "TypeScript"],
   backend:  ["Node.js", "Express", "C# / ASP.NET", "Python", "PHP"],
   database: ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "Supabase"],
 
