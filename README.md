@@ -33,9 +33,9 @@ const maicon: Developer = {
   location: "Rio de Janeiro, Brasil 🇧🇷",
   role:     "Full Stack Developer",
 
-  front:["React", "Next", "SvelteKit", "Tailwind", "TypeScript"],
+  front: ["React", "Next", "SvelteKit", "Tailwind", "TypeScript"],
   back: ["Node.js", "Express", "C# / ASP.NET", "Python", "PHP"],
-  data:["PostgreSQL", "MySQL", "SQLite", "MongoDB", "Supabase"],
+  data: ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "Supabase"],
 
   devops: {
     containers:  ["Docker", "Docker Compose"],
